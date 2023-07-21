@@ -1,4 +1,4 @@
-# manor_publications
+# manor_bibex
 
 Contains BibTex file(s) that can be accessed by BibBase.org, to create an iFrame link to be embedded on lab webpage.
 
